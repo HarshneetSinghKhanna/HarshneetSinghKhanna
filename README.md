@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://harshneetsinghkhanna.github.io/Harshneet_Portfolio/](https://harshneetsinghkhanna.github.io/Harshneet_Portfolio/)
 
-- 📄 Know about my experiences [https://harshneetsinghkhanna.github.io/Harshneet_Portfolio/FinalHarshneet_Khanna_Resume.pdf](https://harshneetsinghkhanna.github.io/Harshneet_Portfolio/FinalHarshneet_Khanna_Resume.pdf)
+- 📄 Know about my experiences [Checkout my Resume!]([https://harshneetsinghkhanna.github.io/Harshneet_Portfolio/FinalHarshneet_Khanna_Resume.pdf](https://drive.google.com/file/d/1jyXoe3zvqHZa5_EDbGlUK3vSd3ex3MVa/view?usp=drive_link))
 
 - ⚡ Fun fact **Github drives me crazy!**
 
