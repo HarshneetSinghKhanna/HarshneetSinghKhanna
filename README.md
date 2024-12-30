@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif">
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshneetsinghkhanna" alt="harshneetsinghkhanna" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://harshneetsinghkhanna.github.io/Harshneet_Portfolio/](https://harshneetsinghkhanna.github.io/Harshneet_Portfolio/)
+- 👨‍💻 All of my projects are available at <a href= "https://harshneetsinghkhanna.github.io/Harshneet_Portfolio/"> Harshneet's Portfolio </a>
 
 - 📄 Know about my experiences [Checkout my Resume!](https://drive.google.com/file/d/1jyXoe3zvqHZa5_EDbGlUK3vSd3ex3MVa/view?usp=drive_link)
 
-- ⚡ Fun fact **Github drives me crazy!**
+- ⚡ Fun fact **Github drives me crazy! (no really it does)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
