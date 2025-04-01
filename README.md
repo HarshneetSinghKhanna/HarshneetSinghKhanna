@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at <a href= "https://harshneetsinghkhanna.github.io/Harshneet_Portfolio/"> Harshneet's Portfolio </a>
 
-- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1jyXoe3zvqHZa5_EDbGlUK3vSd3ex3MVa/view?usp=drive_link](https://drive.google.com/file/d/1XqZ7HeUpx8O_EQ3izJS8XnYPUeaFQNcd/view?usp=drive_link"> [Checkout my Resume!] </a>
+- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1XqZ7HeUpx8O_EQ3izJS8XnYPUeaFQNcd/view?usp=drive_link"](https://drive.google.com/file/d/1XqZ7HeUpx8O_EQ3izJS8XnYPUeaFQNcd/view?usp=drive_link"> [Checkout my Resume!] </a>
 
 - ⚡ Fun fact **Github drives me crazy! (no really it does)**
 
